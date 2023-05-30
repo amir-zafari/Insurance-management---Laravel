@@ -9,4 +9,4 @@ The insurance project is a web application for the management of insurers and in
 ## Project photos
 <img src="https://s6.uupload.ir/files/screenshot_(80)_q7uz.png" border="0"  width="1000">
 
-<img src="https://s6.uupload.ir/files/screenshot_(83)_ljgl.png" border="0"  width="1000">
+<img src="https://s8.uupload.ir/files/screenshot_(83)_ljgl_z44c.png" border="0"  width="1000">
